@@ -1,0 +1,96 @@
+{
+  "profile": {
+    "name": "Sanjay S Nair",
+    "title": "Full Stack Developer",
+    "location": "India",
+    "email": "getsanjaysnair@gmail.com",
+    "linkedin": "https://linkedin.com/in/sanjaysnair",
+    "github": "https://github.com/sanjaysnair"
+  },
+  "about": {
+    "description": "Passionate Full Stack Developer with extensive experience in building scalable web applications. Specialized in React, Python, PHP, and modern web technologies. Available for freelance projects and consulting.",
+    "highlights": [
+      "18+ years of software development experience",
+      "Expert in React, Python, PHP, and cloud technologies",
+      "Successfully delivered 50+ freelance projects",
+      "Strong focus on clean code and best practices"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Consultant Technical Lead",
+      "company": "Societe Generale Global Solution Centre",
+      "period": "October 2022 - Present (3+ years) | Bengaluru, Karnataka",
+      "description": "People management and serving as Technical Analyst for the DALI group CMDB project. Responsible for strategic technical decisions and team mentorship."
+    },
+    {
+      "id": 2,
+      "title": "Technical Lead",
+      "company": "Societe Generale Global Solution Centre",
+      "period": "April 2018 - November 2022 (4 years 8 months) | Bengaluru, Karnataka",
+      "description": "Technical Lead specializing in full-stack development and DevOps, with proven experience leading enterprise applications (DALI, MARLEY) using Python, Neo4j, Flask, PHP, and Oracle. Drove cloud modernization through Kubernetes/OpenShift migrations and fostered technical excellence by leading ELK stack teams and UI communities at GTS."
+    },
+    {
+      "id": 3,
+      "title": "Senior Software Engineer",
+      "company": "Societe Generale Global Solution Centre",
+      "period": "February 2015 - March 2018 (3 years 2 months) | Bengaluru, Karnataka",
+      "description": "Full-stack developer with DevOps expertise, specializing in IT asset management, workflow systems, and security solutions. Led critical infrastructure modernizations including SVN-to-Git migrations, Solaris-to-RedHat server transitions, and built comprehensive CI/CD pipelines using Jenkins across multiple projects. Developed REST APIs to modernize legacy applications while working extensively with PHP (Zend Framework), Python (Django), Oracle, MySQL, PostgreSQL, and JavaScript frameworks (ExtJs, jQuery)."
+    },
+    {
+      "id": 4,
+      "title": "Senior Software Engineer",
+      "company": "Helios & Matheson",
+      "period": "March 2014 - February 2015 (1 year) | Bangalore, Karnataka",
+      "description": "Worked on contract at Societe Generale Global Solution Center, Bangalore."
+    },
+    {
+      "id": 5,
+      "title": "Senior Software Engineer",
+      "company": "Xminds Infotech Pvt Ltd | Thiruvananthapuram, Kerala",
+      "period": "July 2010 - March 2014 (3 years 9 months)",
+      "description": "Full-stack Web Developer and Team Lead with expertise in LAMP stack development and Agile project management, leading cross-functional teams of up to 4 developers across multiple concurrent projects. Specialized in end-to-end product development from planning and MVP creation to scaling, utilizing Zend Framework, Doctrine ORM, and e-commerce platforms (OpenCart, BigCommerce). Architected REST APIs and integrated third-party services including Facebook, Twitter, Google, and Amazon S3, while leveraging modern tools (Git, Jira, Asana) and databases (MySQL, MongoDB, Redis) for efficient delivery."
+    },
+    {
+      "id": 6,
+      "title": "PHP Programmer",
+      "company": "Websoftbay Technologies",
+      "period": "December 2009 - July 2010 (8 months) | Kollam, Kerala",
+      "description": "Worked on component development for Joomla and custom templating using Smarty."
+    },
+    {
+      "id": 7,
+      "title": "PHP Programmer",
+      "company": "Harisun Software Pvt Ltd",
+      "period": "April 2007 - October 2009 (2 years 7 months) | Thiruvananthapuram, Kerala",
+      "description": "Started in a startup environment. Responsibilities included PHP coding, Photoshop design, system administration, and technical support."
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "JavaScript", "TypeScript", "HTML5", "CSS3", "TailwindCSS", "Redux", "Next.js"],
+    "backend": ["Node.js", "Express", "Python", "Django", "REST APIs", "GraphQL"],
+    "database": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    "tools": ["Git", "Docker", "AWS", "CI/CD", "Jest", "Webpack"]
+  },
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Visitor Management System for Apartments",
+      "description": "Built a full-featured visitor management system with check-in/check-out functionality, visitor tracking, and reporting features.",
+      "technologies": ["React", "Node.js", "TailwindCSS"],
+      "image": "https://via.placeholder.com/400x300/3b82f6/ffffff?text=Visitor+Management+System",
+      "link": "https://vistara-visitor-app-frontend-h8p2.vercel.app/",
+      "category": "Web Development"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "description": "Developed a personal portfolio website to showcase projects, skills, and experience.",
+      "technologies": ["React", "Node.js"],
+      "image": "https://via.placeholder.com/400x300/8b5cf6/ffffff?text=Real+Estate+Portal",
+      "link": "https://sanjaysnair.github.io/",
+      "category": "Web Development"
+    }
+  ]
+}
