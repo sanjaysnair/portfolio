@@ -88,8 +88,17 @@
       "title": "Portfolio Website",
       "description": "Developed a personal portfolio website to showcase projects, skills, and experience.",
       "technologies": ["React", "Node.js"],
-      "image": "https://via.placeholder.com/400x300/8b5cf6/ffffff?text=Real+Estate+Portal",
+      "image": "https://via.placeholder.com/400x300/8b5cf6/ffffff?text=Portfolio+Website",
       "link": "https://sanjaysnair.github.io/",
+      "category": "Web Development"
+    },
+    {
+      "id": 3,
+      "title": "Fibono",
+      "description": "It's a planning poker app for the agile process which scrum master or product owners use to decide the story points for a story.",
+      "technologies": ["Next.js", "Firebase", "Tailwind CSS"],
+      "image": "https://via.placeholder.com/400x300/10b981/ffffff?text=Fibono",
+      "link": "https://fibono.vercel.app/",
       "category": "Web Development"
     }
   ]
